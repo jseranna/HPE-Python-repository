@@ -69,7 +69,7 @@ class saplogin(object):
 
 
 if __name__ == "__main__":
-	mysap = saplogin('21473057','jser%555','PJ1','fb03')
+	mysap = saplogin('xxx','xxx','PJ1','fb03')
 	mysap.predata()
 	time.sleep(7)
 	mysap.saplogon()
